@@ -1,50 +1,52 @@
 🕉️ PythonSkrit - Sanskrit Processing Tools
 
 A collection of Python-based tools for computational Sanskrit linguistics. This repository combines modern programming with ancient Sanskrit grammar rules to create practical applications for Sanskrit scholars, students, and enthusiasts.
-📋 Table of Contents
 
-About Sanskrit & Computational Linguistics
-Project Overview
-Tools Included
-Getting Started
-Installation
-Usage
-Sanskrit Grammar Concepts
-Technical Implementation
-Educational Value
-Contributing
-Acknowledgments
+📋 Table of Contents
+1. About Sanskrit & Computational Linguistics
+2. Project Overview
+3. Tools Included
+4. Getting Started
+5. Installation
+6. Usage
+7. Sanskrit Grammar Concepts
+8. Technical Implementation
+9. Educational Value
+10.Contributing
+11.Acknowledgments
 
 🔍 About Sanskrit & Computational Linguistics
 Sanskrit, one of the world's oldest languages, is renowned for its systematic grammar and mathematical precision. The language's structured nature makes it particularly suited for computational analysis and processing.
+
 Why Sanskrit Computing?
 
-Systematic Grammar: Panini's Ashtadhyayi provides rule-based grammar perfect for algorithms
-Mathematical Structure: Sanskrit's logical construction aligns with programming principles
-Digital Preservation: Technology helps preserve and analyze ancient texts
-Educational Tools: Modern interfaces make Sanskrit learning accessible
-Research Applications: Computational tools assist in linguistic research
+1.Systematic Grammar: Panini's Ashtadhyayi provides rule-based grammar perfect for algorithms
+2.Mathematical Structure: Sanskrit's logical construction aligns with programming principles
+3.Digital Preservation: Technology helps preserve and analyze ancient texts
+4.Educational Tools: Modern interfaces make Sanskrit learning accessible
+5.Research Applications: Computational tools assist in linguistic research
 
 Applications in Modern Context
 
-Digital Humanities: Analyzing vast corpora of Sanskrit literature
-Machine Translation: Developing Sanskrit-to-modern language translators
-Educational Technology: Interactive learning tools for Sanskrit grammar
-Text Processing: Automated analysis of classical texts
-Linguistic Research: Computational approaches to historical linguistics
+1.Digital Humanities: Analyzing vast corpora of Sanskrit literature
+2.Machine Translation: Developing Sanskrit-to-modern language translators
+3.Educational Technology: Interactive learning tools for Sanskrit grammar
+4.Text Processing: Automated analysis of classical texts
+5.Linguistic Research: Computational approaches to historical linguistics
 
 🚀 Project Overview
 PythonSkrit bridges the gap between ancient Sanskrit grammar and modern computational tools. Each application implements specific Sanskrit grammar rules using Python, providing both educational value and practical utility for Sanskrit processing tasks.
+
 Design Philosophy
 
-Rule-Based Implementation: Direct translation of Sanskrit grammar rules into code
-User-Friendly Interface: Intuitive GUI applications accessible to non-programmers
-Educational Focus: Tools designed to teach Sanskrit grammar concepts
-Accurate Processing: Faithful implementation of traditional grammar rules
-Extensible Architecture: Easy to add new rules and features
+1.Rule-Based Implementation: Direct translation of Sanskrit grammar rules into code
+2.User-Friendly Interface: Intuitive GUI applications accessible to non-programmers
+3.Educational Focus: Tools designed to teach Sanskrit grammar concepts
+4.Accurate Processing: Faithful implementation of traditional grammar rules
+5.Extensible Architecture: Easy to add new rules and features
 
-🛠️ Tools Included
-🔤 Ach Sandhi Processor
+🛠️ Tools Included:
+1.🔤 Ach Sandhi Processor
 
 Purpose: Processes Sanskrit vowel sandhi (euphonic combinations)
 Difficulty: Intermediate
@@ -58,7 +60,7 @@ Error handling for invalid inputs
 
 
 
-📏 Vrutta Analyzer
+2.📏 Vrutta Analyzer
 
 Purpose: Analyzes Sanskrit verse meters (chandas/vrutta)
 Difficulty: Advanced
@@ -72,7 +74,7 @@ Pattern visualization
 
 
 
-🛠️ Technologies Used
+3.🛠️ Technologies Used
 
 Python 3.6+: Core programming language
 Tkinter: GUI framework for user interfaces
@@ -80,7 +82,7 @@ String Processing: Advanced text manipulation techniques
 Pattern Matching: Rule-based pattern recognition
 Unicode Support: Proper handling of Devanagari and IAST text
 
-📦 Installation
+4.📦 Installation
 Prerequisites
 
 Python 3.6 or higher
