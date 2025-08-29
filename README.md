@@ -1,4 +1,5 @@
 🕉️ PythonSkrit - Sanskrit Processing Tools
+
 A collection of Python-based tools for computational Sanskrit linguistics. This repository combines modern programming with ancient Sanskrit grammar rules to create practical applications for Sanskrit scholars, students, and enthusiasts.
 📋 Table of Contents
 
