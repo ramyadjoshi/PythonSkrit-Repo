@@ -92,7 +92,7 @@ Unicode-capable text display
 Setup Instructions
 
 Clone the repository:
-bashgit clone https://github.com/yourusername/pythonskrit.git
+bashgit clone https://github.com/ramyadjoshi/pythonskrit.git
 cd pythonskrit
 
 Verify Python installation:
